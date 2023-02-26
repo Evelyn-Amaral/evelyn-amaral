@@ -2,7 +2,8 @@
 ### Eu sou estudante de Analíse e Desenvolvimento de Sistema, cursando no momento o primeiro semestre, apaixonada por tecnologia, participei de alguns cursos e bootcamps, sempre tentando me aperfeiçoar.
 
 <p align="center">
-<img src=https://github.com/
+<img src=https://github.com/Evelyn-Amaral/evelyn-amaral/blob/main/zelda_tears_of_the_kingdom.gif/>
+</p>
 
 
 
