@@ -1,6 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF1493&size=35&center=true&vCenter=true&width=1000&lines=Oii,+eu+sou+a+Evelyn+Amaral;)](https://git.io/typing-svg)
 ### Eu sou estudante de Analíse e Desenvolvimento de Sistema, cursando no momento o primeiro semestre, apaixonada por tecnologia, participei de alguns cursos e bootcamps, sempre tentando me aperfeiçoar.
 
+<p align="center">
+<img src=https://github.com/
+
+
+
 
 ### <p align="center">⭐️ Tecnologias que estou apredendo ⭐️
 </p>
